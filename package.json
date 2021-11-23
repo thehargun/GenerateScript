@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thehargun/GenerateScript/issues"
   },
-  "homepage": "https://github.com/thehargun/GenerateScript#readme"
+  "homepage": "https://github.com/thehargun/GenerateScript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
